@@ -1,2 +1,3 @@
 # progressive_web_app_eksu2016
-This app was created and demo at the Progressive web application road show at Ekiti State University by Afowowe James. thanks to code.google.com, file hosted on firebase
+Afowowe James developed this software, which he showcased at the Ekiti State University Progressive Web Application Road Show 2016.  
+File was hosted on Firebase  with support from code.google.com
